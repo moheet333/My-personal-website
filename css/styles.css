@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    color: #470D21;
+    margin-top: 0;
+    font-family: 'Beau Rivage', cursive;
+    font-size: 562.5%;
+    margin-bottom: 10px;
+    margin-top: 46px;
+}
+
+h2 {
+    font-size: 1.75rem;
+    color: #9C0F48;
+    font-weight: normal;
+}
+
+h3 {
+   color: #D67D3E;
+}
+
+a { 
+    text-decoration: none;
+    color: #D67D3E;
+}
+
+p {
+    margin-top: 0;
+} 
+
+hr {
+    border: dotted 6px;
+    border-bottom: none;
+    width: 5%;
+}
+
+.top-container {
+    background-color: bisque;
+    position: relative;
+    padding-top: 50px;
+}
+
+.bottom-container {
+    background-color: bisque;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 275px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 275px;
+}
+
+.skills-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.blockchain-img {
+    width: 25%;
+    float: left;
+    margin-right: 70px;
+    margin-top: 5px;
+}
+
+.web-img {
+    width: 25%;
+    float: right;
+    margin-left: 5px;
+    margin-top: 185px;
+}
+
+.webdevinfo {
+    margin-top: 200px;
+}
+
+.profile-img {
+    margin: 40px auto 10px auto;
+}
+
+.hello {
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+.outro {
+    width: 30%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.Contact-me {
+    margin-bottom: 30px;
+}
+
+.trademark {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+.below-hello {
+    margin-bottom: 30px;
+}
